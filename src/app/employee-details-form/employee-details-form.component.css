@@ -1,0 +1,29 @@
+.employee-form {
+    margin-top: 2%;
+}
+
+.card-margin {
+    margin-bottom: 2%;
+}
+
+.btn-align {
+    float: right;
+}
+
+.icon-color {
+    color: darkgray;
+    font-size: 25px;
+    margin-top: 4px;
+}
+
+.submit-btn {
+    color: #856404;
+    background-color: #fff3cd;
+    border: 2px solid #e2ca82;
+    margin-bottom: 3%;
+}
+
+.submit-btn:hover {
+    color: #554003;
+    background-color: #fae7aa;
+}
